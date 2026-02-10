@@ -170,13 +170,13 @@
 <p>
   <strong>Tech:</strong> NestJS · Nats · AWS · Microservices architecture · TypeScript · Jest · Swagger · Hexagonal Architecture · Redis · postgres · jwt authentication 
   <br>
-  <strong>Description:</strong> Brief description of the problem and solution
+  <strong>Description:</strong> A secure application that allows users to register and log in to calculate their Body Mass Index (BMI) by entering height and weight, and compare their results with other users to understand their relative health positioning.
 </p>
 🔗 <a href="https://github.com/orgs/Nest-js-ms-imc/repositories">Repo</a>
 
 <h3 align="left"> 📫 Contact</h3>
 
-<h4 align="left"><strong>🔹 API IMC</strong></h4>
+<h4 align="left"><strong>🔹 API BMI</strong></h4>
 
 <p>
   <strong>💼 LinkedIn:</strong> <a>https://www.linkedin.com/in/juandgilt/</a> 
