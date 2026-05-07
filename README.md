@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">
-  👋 Hi, I'm Juan David Gil — Fullstack Developer (
+  👋 Hi, I'm Juan David Gil — Mid-Senior Fullstack Software Engineer (
   <a href="https://github.com/juanst13" target="_blank">juanst13</a>
   )
 </h2>
@@ -17,11 +17,11 @@
 
 </p>
 <p>
-  - 💻 5+ years of experience in software development <br/>
+  - 💻 4+ years of experience in software development <br/>
   - 🌐 Web & Mobile applications <br/>
   - ⚛️ React, Angular, React Native <br/>
-  - 🧠 Backend with NestJS, Node.js, .NET <br/>
-  - ☁️ AWS, Docker, Kubernetes <br/>
+  - 🧠 Backend with NestJS, Node.js, Java, .NET <br/>
+  - ☁️ AWS, Kubernetes <br/>
   - 📍 Open to remote / hybrid opportunities <br/>
 </p>
 
@@ -61,6 +61,13 @@
   </strong> -->
 
 <h3 align="left">🛠 Tech Stack</h3>
+<h4 align="left"><strong>AI & LLM Systems</strong></h4>
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
+![Multi-agent Systems](https://img.shields.io/badge/-Multi--agent%20Systems-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
+![Agent Orchestration](https://img.shields.io/badge/-Agent%20Orchestration-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
+![Test Automation LLMs](https://img.shields.io/badge/-Test%20Automation%20LLMs-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
 
 <!-- <p align="left">
   <a href="https://www.docker.com/" target="_blank">
@@ -123,45 +130,62 @@
 
 ![Angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=angular&logoColor=#0F0F11)
 ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
-![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)<br>
+![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-0A1A2F?style=flat&logo=redux&logoColor=#764ABC)
+![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-0A1A2F?style=flat&logo=apollographql&logoColor=#311C87)
+![styled-components](https://img.shields.io/badge/-styled--components-0A1A2F?style=flat&logo=styled-components&logoColor=#DB7093)
+![i18next](https://img.shields.io/badge/-i18next-0A1A2F?style=flat&logo=i18next&logoColor=#26A69A)
+![Axios](https://img.shields.io/badge/-Axios-0A1A2F?style=flat&logo=axios&logoColor=#5A29E4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript&logoColor=#F7E018)
-![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript&logoColor=#3178C6)<br>
-![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
-![React Router](https://img.shields.io/badge/-React%20Router-0A1A2F?style=flat&logo=React%20Router&logoColor=#764ABC)
-![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=Redux&logoColor=#764ABC)
-![Storybook](https://img.shields.io/badge/-Storybook-0A1A2F?style=flat&logo=Storybook&logoColor=#764ABC)
+![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript&logoColor=#3178C6)
 
 <h4 align="left"><strong>Backend</strong></h4>
 
-![Nodedotjs](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=nodedotjs&logoColor=#5FA04E)
-![Nestjs](https://img.shields.io/badge/-NestjS-0A1A2F?style=flat&logo=nestjs&logoColor=#E0234E)
-![Java](https://img.shields.io/badge/-Java_Spring_Boot-0A1A2F?style=flat&logo=SpringBoot&logoColor=#6DB33F)<br>
-![.NET](https://img.shields.io/badge/-.NET-0A1A2F?style=flat&logo=dotnet&logoColor=#512BD4)<br>
-![graphql](https://img.shields.io/badge/-Graphql-0A1A2F?style=flat&logo=graphql&logoColor=#E10098)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=PostgreSQL&logoColor=#4169E1)<br>
-![Apachekafka](https://img.shields.io/badge/-Apache_Kafka-0A1A2F?style=flat&logo=apachekafka&logoColor=#231F20)
-![redis](https://img.shields.io/badge/-Redis-0A1A2F?style=flat&logo=redis&logoColor=#FF4438)
+![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=nodedotjs&logoColor=#5FA04E)
+![NestJS](https://img.shields.io/badge/-NestJS-0A1A2F?style=flat&logo=nestjs&logoColor=#E0234E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript&logoColor=#3178C6)
+![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=java&logoColor=#6DB33F)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0A1A2F?style=flat&logo=springboot&logoColor=#6DB33F)
+![.NET](https://img.shields.io/badge/-.NET-0A1A2F?style=flat&logo=dotnet&logoColor=#512BD4)
+![Microservicios](https://img.shields.io/badge/-Microservicios-0A1A2F?style=flat&logo=Microservices&logoColor=#E0234E)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-0A1A2F?style=flat&logo=apigateway&logoColor=#F7E018)
+![BFF](https://img.shields.io/badge/-BFF-0A1A2F?style=flat&logo=bff&logoColor=#764ABC)
+![REST](https://img.shields.io/badge/-REST-0A1A2F?style=flat&logo=rest&logoColor=#5FA04E)
+![GraphQL](https://img.shields.io/badge/-GraphQL-0A1A2F?style=flat&logo=graphql&logoColor=#E10098)
+![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-0A1A2F?style=flat&logo=apollographql&logoColor=#311C87)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=PostgreSQL&logoColor=#4169E1)
+![TypeORM](https://img.shields.io/badge/-TypeORM-0A1A2F?style=flat&logo=typeorm&logoColor=#E0234E)
+![AWS DynamoDB](https://img.shields.io/badge/-AWS%20DynamoDB-0A1A2F?style=flat&logo=amazondynamodb&logoColor=#004088)
+![Redis](https://img.shields.io/badge/-Redis-0A1A2F?style=flat&logo=redis&logoColor=#FF4438)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-0A1A2F?style=flat&logo=apachekafka&logoColor=#231F20)
 ![NATS](https://img.shields.io/badge/-NATS-0A1A2F?style=flat&logo=natsdotio&logoColor=#27AAE1)
+![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-0A1A2F?style=flat&logo=amazonsqs&logoColor=#232F3E)
+![AWS EventBridge Scheduler](https://img.shields.io/badge/-AWS%20EventBridge%20Scheduler-0A1A2F?style=flat&logo=amazoneventbridge&logoColor=#FF9900)
+![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase&logoColor=#DD2C00)
 
 <h4 align="left"><strong>Cloud & DevOps</strong></h4>
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900)
-![AWS](https://img.shields.io/badge/AWS-CloudWatch-DD0700)
-![AWS](https://img.shields.io/badge/AWS-DynamoDB-004088)
-![AWS](https://img.shields.io/badge/AWS-S3-5BA745)<br>
+![AWS EKS](https://img.shields.io/badge/-AWS%20EKS-0A1A2F?style=flat&logo=amazoneks&logoColor=#FF9900)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-0A1A2F?style=flat&logo=amazons3&logoColor=#5BA745)
+![AWS Secrets Manager](https://img.shields.io/badge/-AWS%20Secrets%20Manager-0A1A2F?style=flat&logo=amazonaws&logoColor=#232F3E)
+![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-0A1A2F?style=flat&logo=amazoncloudwatch&logoColor=#DD0700)
 ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=#2496ED)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0A1A2F?style=flat&logo=kubernetes&logoColor=#326CE5)<br>
-![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase&logoColor=#DD2C00)
+![New Relic](https://img.shields.io/badge/-New%20Relic-0A1A2F?style=flat&logo=newrelic&logoColor=#1CE783)
 
 <h4 align="left"><strong>Testing & Tools</strong></h4>
 
 ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest&logoColor=#C21325)
-![Testing Library](https://img.shields.io/badge/-Testing%20Library-0A1A2F?style=flat&logo=Testing%20Library&logoColor=#C21325)<br>
-![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git&logoColor=#F05032)<br>
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-0A1A2F?style=flat&logo=Testing%20Library&logoColor=#C21325)
+![React Native Testing Library](https://img.shields.io/badge/-React%20Native%20Testing%20Library-0A1A2F?style=flat&logo=testinglibrary&logoColor=#E0234E)
+![Supertest](https://img.shields.io/badge/-Supertest-0A1A2F?style=flat&logo=supertest&logoColor=#26A69A)
+![aws-sdk-client-mock](https://img.shields.io/badge/-aws--sdk--client--mock-0A1A2F?style=flat&logo=amazonaws&logoColor=#232F3E)
+![Swagger](https://img.shields.io/badge/-Swagger-0A1A2F?style=flat&logo=swagger&logoColor=#85EA2D)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-0A1A2F?style=flat&logo=openapiinitiative&logoColor=#6BA539)
+![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git&logoColor=#F05032)
 ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma&logoColor=#F24E1E)
 ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat&logo=jira&logoColor=#0052CC)
-![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=#172B4D)<br>
-![Newrelic](https://img.shields.io/badge/-Newrelic-0A1A2F?style=flat&logo=newrelic&logoColor=#1CE783)
+![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=#172B4D)
+![New Relic](https://img.shields.io/badge/-New%20Relic-0A1A2F?style=flat&logo=newrelic&logoColor=#1CE783)
 
 <h3 align="left"> 🚀 Featured Projects</h3>
 
