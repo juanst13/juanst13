@@ -205,7 +205,7 @@ Library](https://img.shields.io/badge/-React%20Native%20Testing%20Library-0A1A2F
 </p>
 🔗 <a href="https://github.com/orgs/Nest-js-ms-imc/repositories">Organization & Repos</a>
 
-<h4 align="left"><strong>🔹 Products-Orders-App (organization)</strong></h4>
+<h4 align="left"><strong>🔹 API for orders, products, and payments (organization)</strong></h4>
 <p>
   <strong>Tech:</strong> NestJS · TypeScript · NATS · Microservices · Modular Architecture · Auth · API Gateway<br>
   <strong>Description:</strong> Open source microservices suite focused on modular architecture, authentication,
