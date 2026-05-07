@@ -203,11 +203,17 @@ Library](https://img.shields.io/badge/-React%20Native%20Testing%20Library-0A1A2F
   Mass Index (BMI) by entering height and weight, and compare their results with other users to understand their
   relative health positioning.
 </p>
-🔗 <a href="https://github.com/orgs/Nest-js-ms-imc/repositories">Repo</a>
+🔗 <a href="https://github.com/orgs/Nest-js-ms-imc/repositories">Organization & Repos</a>
+
+<h4 align="left"><strong>🔹 Nest-Js-Microservices-App (organization)</strong></h4>
+<p>
+  <strong>Tech:</strong> NestJS · TypeScript · NATS · Microservices · Modular Architecture · Auth · API Gateway<br>
+  <strong>Description:</strong> Open source microservices suite focused on modular architecture, authentication,
+  gateway, and integration patterns.<br>
+  🔗 <a href="https://github.com/orgs/Nest-Js-Microservices-App/repositories">Organization & Repos</a>
+</p>
 
 <h3 align="left"> 📫 Contact</h3>
-
-<h4 align="left"><strong>🔹 API BMI</strong></h4>
 
 <p>
   <strong>💼 LinkedIn:</strong> <a>https://www.linkedin.com/in/juandgilt/</a>
