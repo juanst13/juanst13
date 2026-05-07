@@ -59,12 +59,14 @@
 
 <h3 align="left">🛠 Tech Stack</h3>
 <h4 align="left"><strong>AI & LLM Systems</strong></h4>
-<img src="https://img.shields.io/badge/-AI%20Agents-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
-<img src="https://img.shields.io/badge/-Multi--agent%20Systems-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
-<img src="https://img.shields.io/badge/-Agent%20Orchestration-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
-<img src="https://img.shields.io/badge/-Generative%20AI-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
-<img src="https://img.shields.io/badge/-Prompt%20Engineering-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
-<img src="https://img.shields.io/badge/-Test%20Automation%20LLMs-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
+  <img src="https://img.shields.io/badge/-AI%20Agents-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+  <img src="https://img.shields.io/badge/-Multi--agent%20Systems-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+  <img src="https://img.shields.io/badge/-Agent%20Orchestration-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+  <img src="https://img.shields.io/badge/-Generative%20AI-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+  <img src="https://img.shields.io/badge/-Test%20Automation%20LLMs-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+</div>
 
 <!-- <p align="left">
   <a href="https://www.docker.com/" target="_blank">
