@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    align="center"
-    width="200"
-    src="https://avatars.githubusercontent.com/u/60800254?v=4"
-  />
+  <img align="center" width="200" src="https://avatars.githubusercontent.com/u/60800254?v=4" />
 </p>
 
 <h2 align="center">
@@ -13,25 +9,26 @@
 </h2>
 
 <p align="center">
-<strong>Fullstack developer</strong> specialized in web and mobile applications using React, Angular, NestJS and AWS. Focused on clean, scalable and maintainable solutions.
+  <strong>Fullstack developer</strong> specialized in web and mobile applications using React, Angular, NestJS and AWS.
+  Focused on clean, scalable and maintainable solutions.
 
 </p>
 <p>
-  - 💻 4+ years of experience in software development <br/>
-  - 🌐 Web & Mobile applications <br/>
-  - ⚛️ React, Angular, React Native <br/>
-  - 🧠 Backend with NestJS, Node.js, Java, .NET <br/>
-  - ☁️ AWS, Kubernetes <br/>
-  - 📍 Open to remote / hybrid opportunities <br/>
+  - 💻 4+ years of experience in software development <br />
+  - 🌐 Web & Mobile applications <br />
+  - ⚛️ React, Angular, React Native <br />
+  - 🧠 Backend with NestJS, Node.js, Java, .NET <br />
+  - ☁️ AWS, Kubernetes <br />
+  - 📍 Open to remote / hybrid opportunities <br />
 </p>
 
 <h3 align="left">💡 What I Do</h3>
 
 <p>
-  - Build high-traffic financial web and mobile applications <br/>
-  - Design and maintain scalable microservices architectures <br/>
-  - Implement secure authentication and authorization flows <br/>
-  - Improve observability and reliability in production systems <br/>
+  - Build high-traffic financial web and mobile applications <br />
+  - Design and maintain scalable microservices architectures <br />
+  - Implement secure authentication and authorization flows <br />
+  - Improve observability and reliability in production systems <br />
 </p>
 
 <!-- <strong>
@@ -62,12 +59,12 @@
 
 <h3 align="left">🛠 Tech Stack</h3>
 <h4 align="left"><strong>AI & LLM Systems</strong></h4>
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
-![Multi-agent Systems](https://img.shields.io/badge/-Multi--agent%20Systems-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
-![Agent Orchestration](https://img.shields.io/badge/-Agent%20Orchestration-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
-![Test Automation LLMs](https://img.shields.io/badge/-Test%20Automation%20LLMs-0A1A2F?style=flat&logo=OpenAI&logoColor=#412991)
+<img src="https://img.shields.io/badge/-AI%20Agents-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+<img src="https://img.shields.io/badge/-Multi--agent%20Systems-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+<img src="https://img.shields.io/badge/-Agent%20Orchestration-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+<img src="https://img.shields.io/badge/-Generative%20AI-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+<img src="https://img.shields.io/badge/-Prompt%20Engineering-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
+<img src="https://img.shields.io/badge/-Test%20Automation%20LLMs-0A1A2F?style=flat&logo=OpenAI&logoColor=%23412991" />
 
 <!-- <p align="left">
   <a href="https://www.docker.com/" target="_blank">
@@ -160,23 +157,28 @@
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-0A1A2F?style=flat&logo=apachekafka&logoColor=#231F20)
 ![NATS](https://img.shields.io/badge/-NATS-0A1A2F?style=flat&logo=natsdotio&logoColor=#27AAE1)
 ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-0A1A2F?style=flat&logo=amazonsqs&logoColor=#232F3E)
-![AWS EventBridge Scheduler](https://img.shields.io/badge/-AWS%20EventBridge%20Scheduler-0A1A2F?style=flat&logo=amazoneventbridge&logoColor=#FF9900)
+![AWS EventBridge
+Scheduler](https://img.shields.io/badge/-AWS%20EventBridge%20Scheduler-0A1A2F?style=flat&logo=amazoneventbridge&logoColor=#FF9900)
 ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase&logoColor=#DD2C00)
 
 <h4 align="left"><strong>Cloud & DevOps</strong></h4>
 
 ![AWS EKS](https://img.shields.io/badge/-AWS%20EKS-0A1A2F?style=flat&logo=amazoneks&logoColor=#FF9900)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-0A1A2F?style=flat&logo=amazons3&logoColor=#5BA745)
-![AWS Secrets Manager](https://img.shields.io/badge/-AWS%20Secrets%20Manager-0A1A2F?style=flat&logo=amazonaws&logoColor=#232F3E)
-![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-0A1A2F?style=flat&logo=amazoncloudwatch&logoColor=#DD0700)
+![AWS Secrets
+Manager](https://img.shields.io/badge/-AWS%20Secrets%20Manager-0A1A2F?style=flat&logo=amazonaws&logoColor=#232F3E)
+![AWS
+CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-0A1A2F?style=flat&logo=amazoncloudwatch&logoColor=#DD0700)
 ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=#2496ED)
 ![New Relic](https://img.shields.io/badge/-New%20Relic-0A1A2F?style=flat&logo=newrelic&logoColor=#1CE783)
 
 <h4 align="left"><strong>Testing & Tools</strong></h4>
 
 ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest&logoColor=#C21325)
-![Testing Library](https://img.shields.io/badge/-Testing%20Library-0A1A2F?style=flat&logo=Testing%20Library&logoColor=#C21325)
-![React Native Testing Library](https://img.shields.io/badge/-React%20Native%20Testing%20Library-0A1A2F?style=flat&logo=testinglibrary&logoColor=#E0234E)
+![Testing
+Library](https://img.shields.io/badge/-Testing%20Library-0A1A2F?style=flat&logo=Testing%20Library&logoColor=#C21325)
+![React Native Testing
+Library](https://img.shields.io/badge/-React%20Native%20Testing%20Library-0A1A2F?style=flat&logo=testinglibrary&logoColor=#E0234E)
 ![Supertest](https://img.shields.io/badge/-Supertest-0A1A2F?style=flat&logo=supertest&logoColor=#26A69A)
 ![aws-sdk-client-mock](https://img.shields.io/badge/-aws--sdk--client--mock-0A1A2F?style=flat&logo=amazonaws&logoColor=#232F3E)
 ![Swagger](https://img.shields.io/badge/-Swagger-0A1A2F?style=flat&logo=swagger&logoColor=#85EA2D)
@@ -192,9 +194,12 @@
 <h4 align="left"><strong>🔹 API for body mass index calculation</strong></h4>
 
 <p>
-  <strong>Tech:</strong> NestJS · Nats · AWS · Microservices architecture · TypeScript · Jest · Swagger · Hexagonal Architecture · Redis · postgres · jwt authentication 
+  <strong>Tech:</strong> NestJS · Nats · AWS · Microservices architecture · TypeScript · Jest · Swagger · Hexagonal
+  Architecture · Redis · postgres · jwt authentication
   <br>
-  <strong>Description:</strong> A secure application that allows users to register and log in to calculate their Body Mass Index (BMI) by entering height and weight, and compare their results with other users to understand their relative health positioning.
+  <strong>Description:</strong> A secure application that allows users to register and log in to calculate their Body
+  Mass Index (BMI) by entering height and weight, and compare their results with other users to understand their
+  relative health positioning.
 </p>
 🔗 <a href="https://github.com/orgs/Nest-js-ms-imc/repositories">Repo</a>
 
@@ -203,7 +208,7 @@
 <h4 align="left"><strong>🔹 API BMI</strong></h4>
 
 <p>
-  <strong>💼 LinkedIn:</strong> <a>https://www.linkedin.com/in/juandgilt/</a> 
+  <strong>💼 LinkedIn:</strong> <a>https://www.linkedin.com/in/juandgilt/</a>
   <br>
   <strong>📧 Email:</strong> <a>juand.gilt@gmail.com</a>
 </p>
